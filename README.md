@@ -1,5 +1,5 @@
 
-# Overthrow: Community Edition
+# Overthrow: Community Edition no medical
 **The work on Overthrow continues!**
 
 Overthrow: Community Edition is a continuation of the Overthrow Plus project by Nifnat: https://github.com/Nifnat/Overthrow
