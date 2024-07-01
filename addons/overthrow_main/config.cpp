@@ -11,10 +11,9 @@ class CfgPatches
 		requiredAddons[]=
 		{
 			"cba_ui",
-            "cba_xeh",
-            "cba_jr",
+			"cba_xeh",
+			"cba_jr",
 			"ace_main",
-			"ace_medical",
 			"a3_ui_f",
 			"a3_characters_f",
 			"A3_Ui_F_Orange",
