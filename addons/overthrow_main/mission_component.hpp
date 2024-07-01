@@ -139,4 +139,18 @@ class Params {
 		values[] = {100, 150, 200, 250, 300, 350, 400, 450, 500, 1000};
 		default = 100;
 	};
+	class ace_medical_level {
+        title = "ACE Medical Level";
+        ACE_setting = 1;
+        values[] = {1, 2};
+        texts[] = {"Basic", "Advanced"};
+        default = 1;
+    };
+    class ace_medical_blood_enabledFor {
+        title = "ACE Blood";
+        ACE_setting = 1;
+        values[] = {0, 1, 2};
+        texts[] = {"None", "Players Only", "All"};
+        default = 1;
+    };
 };
